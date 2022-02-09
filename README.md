@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com desenvolvimento web...
-- 🌱 Estudando Django ...
+- 🌱 Estudando Django e MySql
 - 📫 Contate-me no email: simeone.10s10@gmail.com 
 - 😄 Pronouns: ele/dele
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
